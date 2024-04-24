@@ -32,8 +32,3 @@
 <img src="https://github.com/Spidy20/Bird_Species_Classification_Streamlit/blob/master/sc1.png">
 <img src="https://github.com/Spidy20/Bird_Species_Classification_Streamlit/blob/master/sc2.png">
 
-
-## Just follow☝️ me and Star⭐ my repository 
-
-<a href="https://www.buymeacoffee.com/spidy20" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
